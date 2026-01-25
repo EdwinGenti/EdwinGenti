@@ -1,7 +1,29 @@
-## Hi there 👋
+<h1>Hi, I'm Edwin! <br/><a 
+
+<h2>👨‍💻 GIS Student:</h2>
+
+
+- <b>QGIS Projects</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](URL)
+
+- <b>ArcGIS Projects</b>
+  - [Ransomware Proof of Concept (Encrypter)](URL)
+
+- <b>Python Projects</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](URL)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/edwin-genti-31a842332/)
 
 <!--
-**EdwinGenti/EdwinGenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
