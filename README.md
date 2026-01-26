@@ -11,7 +11,11 @@
 
 - <b>Python Projects</b>
   - [Public Domain Extraction (Complex)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
- 
+ <br>
+- <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Quick ; 2- Simple ; 3- Advanced</b>
+<br>
+<br>
+- <b>Every project is evaluateed with three complexity levels : 1- Quick ; 2- Simple: 3- Complex </b>
 <h2>⌨️ Compétences techniques (Skills)</h2>
 - <b>QGIS / ArcGIS Pro : Bonne maîtrise (Advanced)</b>
 <br>
@@ -29,15 +33,20 @@
 <h2>🎯 Objectifs (Goals) :</h2>
 - <b>A court terme (1-3 mois) : Continuer l'apprentissage de Python pour les SIG, faire des projets cartographiques, études et model builders (ArcGIS, QGIS), réviser les bases du langage SQL </b>
 <br>
+<br>
 - <b>A moyen terme (2-6 mois) : Commencer l'apprentissage de R pour les statistiques, acquérir un niveau supérieur en Python et en SQL </b>
+<br>
 <br>
 - <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud), avoir un niveau C1 en espagnol </b>
 <br>
 <br>
 <br>
+<br>
 - <b>Short-term (1-3 months): Continue the Python learning for GIS, make map projects, studies and model builders (ArcGIS, QGIS), review SQL knowledge</b>
 <br>
+<br>
 - <b>Middle-term (2-6months): Start learning R for statistics, get a better level in Python and SQL</b>
+<br>
 <br>
 - <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud), C1 Spanish</b>
 
