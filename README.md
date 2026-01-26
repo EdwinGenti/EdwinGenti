@@ -4,7 +4,7 @@
 
 
 - <b>QGIS Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](URL)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
 
 - <b>ArcGIS Projects</b>
   - [The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
