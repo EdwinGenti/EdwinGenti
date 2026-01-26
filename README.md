@@ -4,13 +4,13 @@
 
 
 - <b>QGIS Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
+  - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS - Extraction of the public parcels available by the model designer of QGIS (Complex)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
 
 - <b>ArcGIS Projects</b>
-  - [The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
+  - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro - The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
 
 - <b>Python Projects</b>
-  - [Public Domain Extraction (Complex)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
+  - [Extraction du domaine public disponible - Public parcels available Extraction (Complex)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
  <br>
 - <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Quick ; 2- Simple ; 3- Advanced</b>
 <br>
