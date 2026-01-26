@@ -31,7 +31,7 @@
 <br>
 - <b>A moyen terme (2-6 mois) : Commencer l'apprentissage de R pour les statistiques, acquérir un niveau supérieur en Python et en SQL </b>
 <br>
-- <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud), avoir le niveau C1 en espagnol </b>
+- <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud), avoir un niveau C1 en espagnol </b>
 <br>
 <br>
 <br>
