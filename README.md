@@ -4,8 +4,8 @@
 
 
 - <b>QGIS Projects</b>
-  - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS - Extraction of the public parcels available by the model designer of QGIS (Complex)](https://github.com/EdwinGenti/Various_Projects__Quick__)
-  - [Divers Projets (Various projects)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
+  - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS - Extraction of the public parcels available by the model designer of QGIS (Complex)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
+  - [Divers Projets (Various projects)](https://github.com/EdwinGenti/Various_Projects__Quick__/tree/main)
 
 - <b>ArcGIS Projects</b>
   - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro - The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
