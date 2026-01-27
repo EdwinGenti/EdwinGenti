@@ -38,7 +38,7 @@
 - <b>A moyen terme (2-6 mois) : Commencer l'apprentissage de R pour les statistiques, acquérir un niveau supérieur en Python et en SQL </b>
 <br>
 <br>
-- <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud), avoir un niveau C1 en espagnol </b>
+- <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud) </b>
 <br>
 <br>
 <br>
@@ -49,7 +49,7 @@
 - <b>Middle-term (2-6months): Start learning R for statistics, get a better level in Python and SQL</b>
 <br>
 <br>
-- <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud), C1 Spanish</b>
+- <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud)</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
