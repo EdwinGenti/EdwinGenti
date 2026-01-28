@@ -38,7 +38,7 @@
 - <b>A moyen terme (2-6 mois) : Commencer l'apprentissage de R pour les statistiques, acquérir un niveau supérieur en Python et en SQL </b>
 <br>
 <br>
-- <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud) </b>
+- <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud), IA pour les SIG </b>
 <br>
 <br>
 <br>
@@ -49,5 +49,5 @@
 - <b>Middle-term (2-6months): Start learning R for statistics, get a better level in Python and SQL</b>
 <br>
 <br>
-- <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud)</b>
+- <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud), AI for GIS</b>
 
