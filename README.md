@@ -1,4 +1,4 @@
-<h1>Bonjour, je suis Edwin! <br/><a 
+<h1>Bonjour, je suis Edwin ! <br/><a 
 
 <h2>👨‍💻 Etudiant en Géographie et aménagement :</h2>
 
