@@ -30,7 +30,7 @@
 <br>
 - <b>Espagnol : B1/B2</b>
 
-<h2>🎯 Objectifs (Goals) :</h2>
+<h2>🎯 Objectifs :</h2>
 - <b>A court terme (1-3 mois) : Continuer l'apprentissage de Python pour les SIG, faire des projets cartographiques, études et model builders (ArcGIS, QGIS), réviser les bases du langage SQL </b>
 <br>
 <br>
