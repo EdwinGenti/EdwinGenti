@@ -1,33 +1,32 @@
-<h1>Hi, I'm Edwin! <br/><a 
+<h1>Bonjour, je suis Edwin! <br/><a 
 
-<h2>👨‍💻 GIS Student :</h2>
+<h2>👨‍💻 Etudiant en Géographie et aménagement :</h2>
 
 
 - <b>QGIS Projects</b>
-  - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS - Extraction of the public parcels available by the model designer of QGIS (Complex)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
-  - [Divers Projets (Various projects)](https://github.com/EdwinGenti/Various_Projects__Quick__/tree/main)
+  - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS (Complexe)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
+  - [Divers Projets (Rapide)](https://github.com/EdwinGenti/Various_Projects__Quick__/tree/main)
 
 - <b>ArcGIS Projects</b>
-  - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro - The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
+  - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
 
 - <b>Python Projects</b>
-  - [Extraction du domaine public disponible - Public parcels available Extraction (Complex)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
+  - [Extraction du domaine public disponible (Complexe)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
  <br>
-- <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Quick ; 2- Simple ; 3- Advanced</b>
+- <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Rapide ; 2- Simple ; 3- Complexe</b>
 <br>
 <br>
-- <b>Every project is evaluateed with three complexity levels : 1- Quick ; 2- Simple: 3- Complex </b>
-<h2>⌨️ Compétences techniques (Skills)</h2>
-- <b>QGIS / ArcGIS Pro : Bonne maîtrise (Advanced)</b>
+<h2>⌨️ Compétences techniques </h2>
+- <b>QGIS / ArcGIS Pro : Bonne maîtrise </b>
 <br>
-- <b>Python (Geopandas, PyGIS) : Débutant (Beginner)</b>
+- <b>Python (Geopandas, PyGIS) : Débutant </b>
 <br>
-- <b>PostgreSQL (PostGIS) : Maîtrise des bases (Basic knowledge)</b>
+- <b>PostgreSQL (PostGIS) : Maîtrise des bases </b>
 
 <h2>🌍 Langages :</h2>
-- <b>Français : langue maternelle (native)</b>
+- <b>Français : langue maternelle </b>
 <br>
-- <b>Anglais : courant (Fluent) (C1)</b>
+- <b>Anglais : courant  (C1)</b>
 <br>
 - <b>Espagnol : B1/B2</b>
 
@@ -43,11 +42,42 @@
 <br>
 <br>
 <br>
-- <b>Short-term (1-3 months): Continue the Python learning for GIS, make map projects, studies and model builders (ArcGIS, QGIS), review SQL knowledge</b>
-<br>
-<br>
-- <b>Middle-term (2-6months): Start learning R, get a better level in Python and SQL</b>
-<br>
-<br>
-- <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud), AI for GIS</b>
 
+
+<h1>Hi, I'm Edwin! <br/><a 
+
+<h2>👨‍💻 GIS Student :</h2>
+
+
+- <b>QGIS Projects</b>
+  - [Extraction of the public parcels available by the model designer of QGIS (Complex)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
+  - [Various Project](https://github.com/EdwinGenti/Various_Projects__Quick__/tree/main)
+
+- <b>ArcGIS Projects</b>
+  - [The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
+
+- <b>Python Projects</b>
+  - [Public parcels available Extraction (Complex)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
+ <br>
+- <b>Every project is evaluated with three complexity levels : 1- Quick ; 2- Simple: 3- Complex </b>
+<h2>⌨️ Skills</h2>
+- <b>QGIS / ArcGIS Pro : Advanced</b>
+<br>
+- <b>Python (Geopandas, PyGIS) : Beginner</b>
+<br>
+- <b>PostgreSQL (PostGIS) : Basic knowledge</b>
+
+<h2>🌍 Languages :</h2>
+- <b>Français : Native speaker</b>
+<br>
+- <b>Anglais : Fluent (C1)</b>
+<br>
+- <b>Espagnol : B1/B2</b>
+
+<h2>🎯 Goals :</h2>
+
+- <b>Short-term (1-3 months): Continue the Python learning for GIS, make map projects, studies and model builders (ArcGIS, QGIS), review SQL knowledge</b>
+
+- <b>Middle-term (2-6months): Start learning R, get a better level in Python and SQL</b>
+
+- <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud), AI for GIS</b>
