@@ -57,7 +57,7 @@
   - [The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
 
 - <b>Python Projects</b>
-  - [Public parcels available Extraction (Complex)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
+  - [Public parcels available Extraction (Complex)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex/blob/main/README.md)
  <br>
 - <b>Every project is evaluated with three complexity levels : 1- Quick ; 2- Simple: 3- Complex </b>
 <h2>⌨️ Skills</h2>
