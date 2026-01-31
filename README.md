@@ -5,13 +5,13 @@
 
 - <b>QGIS Projects</b>
   - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS (Simple)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
-  - [Divers Projets (Rapide)](https://github.com/EdwinGenti/Extraction_Domaine_Public_Python)
+  - [Divers Projets (Rapide)](https://github.com/EdwinGenti/Various_Projects__Quick__)
 
 - <b>ArcGIS Projects</b>
   - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
 
 - <b>Python Projects</b>
-  - [Extraction du domaine public disponible (Complexe)](https://github.com/EdwinGenti/Python-Public_Domain_Extraction__Complex)
+  - [Extraction du domaine public disponible (Complexe)](https://github.com/EdwinGenti/Extraction_Domaine_Public_Python/tree/main)
  <br>
 - <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Rapide ; 2- Simple ; 3- Complexe</b>
 <br>
