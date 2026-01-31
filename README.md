@@ -8,7 +8,7 @@
   - [Divers Projets (Rapide)](https://github.com/EdwinGenti/Various_Projects__Quick__)
 
 - <b>ArcGIS Projects</b>
-  - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
+  - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/Rational_Method_Etude_Hydrologique__Complexe)
 
 - <b>Python Projects</b>
   - [Extraction du domaine public disponible (Complexe)](https://github.com/EdwinGenti/Extraction_Domaine_Public_Python/tree/main)
