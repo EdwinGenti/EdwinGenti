@@ -4,7 +4,7 @@
 
 
 - <b>QGIS Projects</b>
-  - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS (Simple)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
+  - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS (Simple)](https://github.com/EdwinGenti/Domaine_Public_Modeleur_Graphique)
   - [Divers Projets (Rapide)](https://github.com/EdwinGenti/Various_Projects__Quick__)
 
 - <b>ArcGIS Projects</b>
