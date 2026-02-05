@@ -31,10 +31,10 @@
 - <b>Espagnol : B1/B2</b>
 
 <h2>🎯 Objectifs :</h2>
-- <b>A court terme (1-3 mois) : Continuer l'apprentissage de Python pour les SIG, faire des projets cartographiques, études et model builders (ArcGIS, QGIS), réviser les bases du langage SQL </b>
+- <b>A court terme (1-3 mois) : Continuer l'apprentissage de Python pour les SIG, Apprendre R, faire des projets cartographiques, études et model builders (ArcGIS, QGIS), réviser les bases du langage SQL </b>
 <br>
 <br>
-- <b>A moyen terme (2-6 mois) : Commencer l'apprentissage de R, acquérir un niveau supérieur en Python et en SQL </b>
+- <b>A moyen terme (2-6 mois) : Acquérir un niveau supérieur en Python, SQL et R </b>
 <br>
 <br>
 - <b>A long terme (6 mois - 2ans) : Apprendre le web-mapping, apprendre geoserver (cloud), IA pour les SIG </b>
@@ -76,8 +76,8 @@
 
 <h2>🎯 Goals :</h2>
 
-- <b>Short-term (1-3 months): Continue the Python learning for GIS, make map projects, studies and model builders (ArcGIS, QGIS), review SQL knowledge</b>
+- <b>Short-term (1-3 months): Continue the Python learning for GIS, Learn R, make map projects, studies and model builders (ArcGIS, QGIS), review SQL knowledge</b>
 
-- <b>Middle-term (2-6months): Start learning R, get a better level in Python and SQL</b>
+- <b>Middle-term (2-6months): Get a better level in Python, R and SQL</b>
 
 - <b>Long-term (6months - 2years): Start learning web-mapping, learn geoserver (cloud), AI for GIS</b>
