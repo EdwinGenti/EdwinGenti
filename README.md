@@ -9,9 +9,11 @@
 
 - <b>ArcGIS Projects</b>
   - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/Rational_Method_Etude_Hydrologique__Complexe)
+  
 
 - <b>Python Projects</b>
   - [Extraction du domaine public disponible (Complexe)](https://github.com/EdwinGenti/Extraction_Domaine_Public_Python/tree/main)
+  - [Divers projets Python (Simple)](https://github.com/EdwinGenti/Python_Debutant_Projects)
  <br>
 - <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Rapide ; 2- Simple ; 3- Complexe</b>
 <br>
