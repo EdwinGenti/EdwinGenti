@@ -5,7 +5,7 @@
 
 - <b>QGIS Projects</b>
   - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS (Simple)](https://github.com/EdwinGenti/Domaine_Public_Modeleur_Graphique)
-  - [Les stratégies d’implantation de Basic Fit : une analyse spatiale en PACA (Complexe)](https://github.com/EdwinGenti/Divers_Projets)
+  - [Les stratégies d’implantation de Basic Fit : une analyse spatiale en PACA (Complexe)](https://github.com/EdwinGenti/Strategies_Basic_Fit)
 
 - <b>ArcGIS Projects</b>
   - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/Rational_Method_Etude_Hydrologique__Complexe)
@@ -53,7 +53,7 @@
 
 - <b>QGIS Projects</b>
   - [Extraction of the public parcels available by the model designer of QGIS (Simple)](https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__)
-  - [Various Project (Quick)](https://github.com/EdwinGenti/Various_Projects__Quick__/tree/main)
+  - [Basic Fit Development Strategies)](https://github.com/EdwinGenti/Strategies_Basic_Fit)
 
 - <b>ArcGIS Projects</b>
   - [The Rational method: Estimation of Peak Discharge for the Pouri River (Complex)](https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex)
