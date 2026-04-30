@@ -19,7 +19,7 @@
 <br>
 <br>
 <h2>⌨️ Compétences techniques </h2>
-- <b>QGIS / ArcGIS Pro : Bonne maîtrise </b>
+- <b>QGIS / ArcGIS Pro : Très bonne maîtrise </b>
 <br>
 - <b>Python (Geopandas, PyGIS) : Débutant </b>
 <br>
