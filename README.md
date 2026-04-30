@@ -5,7 +5,7 @@
 
 - <b>QGIS Projects</b>
   - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS (Simple)](https://github.com/EdwinGenti/Domaine_Public_Modeleur_Graphique)
-  - [Divers Projets (Rapide)](https://github.com/EdwinGenti/Divers_Projets)
+  - [Les stratégies d’implantation de Basic Fit : une analyse spatiale en PACA (Complexe)](https://github.com/EdwinGenti/Divers_Projets)
 
 - <b>ArcGIS Projects</b>
   - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/Rational_Method_Etude_Hydrologique__Complexe)
