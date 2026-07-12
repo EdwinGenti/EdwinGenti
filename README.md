@@ -5,8 +5,10 @@
 
 - <b>QGIS Projects</b>
   - [Extraction du Domaine Public Disponible par le modeleur graphique de QGIS (Simple)](https://github.com/EdwinGenti/Domaine_Public_Modeleur_Graphique)
-  - [Les stratégies d’implantation de Basic Fit : une analyse spatiale en PACA (Complexe)](https://github.com/EdwinGenti/Strategies_Basic_Fit)
+  - [Les stratégies d’implantation de Basic Fit : une analyse spatiale en PACA (Intermédiaire)](https://github.com/EdwinGenti/Strategies_Basic_Fit)
   - [Divers Projets (Simple)](https://github.com/EdwinGenti/Divers_projet)
+  - [L’évolution du réseau de transport aérien des pays de l’UE
+entre 2003 et 2024 (Intermédiaire)](https://github.com/EdwinGenti/Reseau_Aerien_UE_Evolution)
 
 - <b>ArcGIS Projects</b>
   - [The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro (Complexe)](https://github.com/EdwinGenti/Rational_Method_Etude_Hydrologique__Complexe)
@@ -16,7 +18,7 @@
   - [Extraction du domaine public disponible (Complexe)](https://github.com/EdwinGenti/Extraction_Domaine_Public_Python/tree/main)
   - [Divers projets Python (Simple)](https://github.com/EdwinGenti/Python_Debutant_Projects)
  <br>
-- <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Rapide ; 2- Simple ; 3- Complexe</b>
+- <b>Chaque projet est évalué selon trois niveaux de complexité : 1- Simple ; 2- Intermédiaire ; 3- Complexe</b>
 <br>
 <br>
 <h2>⌨️ Compétences techniques </h2>
