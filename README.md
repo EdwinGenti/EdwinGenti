@@ -1,6 +1,6 @@
 <h1>Bonjour, je suis Edwin ! <br/><a 
 
-<h2>👨‍💻 Etudiant en Géographie et aménagement :</h2>
+<h2>👨‍💻 Etudiant en Géomatique :</h2>
 
 
 - <b>QGIS Projects</b>
